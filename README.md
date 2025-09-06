@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow) 
 ![License](https://img.shields.io/badge/license-MIT-blue) 
-![Made with](https://img.shields.io/badge/made%20with-Python-red) 
+![Made with](https://img.shields.io/badge/made%20with-js-red) 
 
 Welcome to **PokeDevs**!  
 An experimental project inspired by the Pokémon universe, i built to learn and practice.
