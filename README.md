@@ -4,13 +4,13 @@
 ![License](https://img.shields.io/badge/license-MIT-blue) 
 ![Made with](https://img.shields.io/badge/made%20with-Python-red) 
 
-Welcome to **PokéDevs**!  
+Welcome to **PokeDevs**!  
 An experimental project inspired by the Pokémon universe, built to learn, practice, and have fun with **coding and game development**.  
 
 ---
 
 ## 🚀 About
-PokéDevs is a playful project where programming meets creativity.  
+PokeDevs is a playful project where programming meets creativity.  
 The idea is to combine the fun of Pokémon with the challenge of coding.
 
 ---
