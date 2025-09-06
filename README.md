@@ -1,6 +1,6 @@
 # 🎮 PokeDevs Project
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) 
+![Status](https://img.shields.io/badge/status-finish-green) 
 ![License](https://img.shields.io/badge/license-MIT-blue) 
 ![Made with](https://img.shields.io/badge/made%20with-JS-red) 
 
